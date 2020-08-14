@@ -27,3 +27,10 @@ Data /Hora Ocorrência: 13/08/2020 10:16:00
 Status: Em transferência entre CDs da transportadora -
 
 -------------------------------------------------------------
+
+Data /Hora Ocorrência: 14/08/2020 10:00:21
+
+Status: Entrega suspensa -
+
+-------------------------------------------------------------
+
